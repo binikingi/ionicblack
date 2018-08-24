@@ -1,0 +1,8 @@
+{
+  "name": "blackIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "b2b3a29c"
+}
